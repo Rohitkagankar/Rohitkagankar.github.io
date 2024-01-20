@@ -645,7 +645,7 @@ form textarea {
 }
 .contact-form textarea {
   resize: none;
-  height: 220px;
+  height: 210px;
 }
 .contact-form form .send {
   display: inline-block;
