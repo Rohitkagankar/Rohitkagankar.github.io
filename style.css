@@ -492,7 +492,8 @@ section {
 }
 .portfolio-content {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(359px, auto));
+  /* grid-template-columns: repeat(auto-fit, minmax(359px, auto)); */
+  grid-template-columns: 1fr 1fr 1fr 1fr 50px;
 }
 .row {
   position: relative;
