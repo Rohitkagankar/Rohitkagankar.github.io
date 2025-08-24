@@ -15,14 +15,14 @@ window.onscroll = () => {
 
 document.getElementById('resume-button-1').addEventListener("click", () => {
   window.open(
-    "https://drive.google.com/file/d/1iKHf4AzxXTgaDvLjO0YZ7TF4MBxdgMlx/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZKPcIRED61K1IWplrKgndpQy2_wsk-wR/view?usp=sharing",
     "_blank"
   );
 });
 
 document.getElementById('resume-button-2').addEventListener("click", () => {
   window.open(
-    "https://drive.google.com/file/d/1iKHf4AzxXTgaDvLjO0YZ7TF4MBxdgMlx/view?usp=sharing",
+    "https://drive.google.com/file/d/1ZKPcIRED61K1IWplrKgndpQy2_wsk-wR/view?usp=sharing",
     "_blank"
   );
 });
